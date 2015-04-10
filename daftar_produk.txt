@@ -1,0 +1,93 @@
+1	1	Sistem Antrian	<h1>Sistem Antrian</h1>
+
+<p>Sistem antrian adalah system yang berfungsi untuk pengelolaan antrian untuk instansi seperti antrian nasabah bank, pasien rumah sakit, loket pembayaran, counter layanan provider telekomunikasi, apotik, dan lain sebagainya, sebagian masyarakat menyebut system ini adalah sistem antri, alat antrian, atau mesin antri.</p>
+
+<p>Sistem antrian adalah salah satu produk kami, yang terdiri dari dua type, disebut sistem antrian, karena basis system pengatur antrian dengan mempergunakan software atau perangkat lunak yang berjalan pada sebuah CPU komputer, dan mesin antri atau alat antrian, karena system basis alat management antri adalah dengan mempergunakan alat-alat elektronika mikro kontroller, dimana untuk penggunaanya biasanya digunakan untuk kapasitas kecil.</p>
+
+<p>Alat antrian atau mesin antri untuk kapasitas kecil yang dimaksud, adalah untuk melayani jumlah layanan antri hanya satu atau dua layanan, dengan jumlah antrian tidak sampai dengan ribuan, yang artinya juga dijual dengan harga yang tidak terlalu mahal, dengan fitur yang tidak seluas sistem antrian yang berbasis perangkat lunak.</p>
+
+<p>Sisi lain dari sistem antrian yang kami sediakan adalah, memenuhi kebutuhan yang lebih banyak dari pada mesin antri atau alat antrian, yang untuk hitungan nilai ekonominya tentu saja lebih besar, akan tetapi hal ini bukan alasan, sebab, lebih banyak hal yang akan anda dapatkan dari sistem antrian ini, dan itu adalah investasi untuk jangka yang amat panjang.</p>
+
+<p>Sistem antrian yang kami sediakan untuk anda mempunyai fitur-fitur antara lain:</p>
+
+<ul>
+	<li>
+	<p>Dilengkapi dengan panduan dan&nbsp;setup aplikasi, terkemas rapi&nbsp;dalam satu CD Installer.</p>
+	</li>
+	<li>
+	<p>Berbasis system Client Server,Menggunakan mySQL Server&nbsp;sebagai pusat penyimpan data. Dapat&nbsp;dijalankan pada sistem jaringan&nbsp;konvensional, wireless ataupun&nbsp;sistem Thin Client.</p>
+	</li>
+	<li>
+	<p>Disertakan sebuah layar video&nbsp;yang&nbsp; dapat berupa informasi iklan, penerangan, hiburan, film atau musik. Sistem akan menjalankan video&nbsp; yang&nbsp;terkumpul dalam satu folder video,&nbsp;secara berurutan.</p>
+	</li>
+	<li>
+	<p>Terdapat juga papan informa&nbsp;berupa banner yang dapat&nbsp;menjalankan html, javascript, movie,&nbsp;flash, animasi, images atau text,&nbsp;sehingga lebih leluasa dalam&nbsp;menampilkan informasi.</p>
+	</li>
+	<li>
+	<p>Tampilan warna, text, logo, sound, video, banner yang dapat diset oleh user sesuai keinginan.</p>
+	</li>
+	<li>
+	<p>Fungsi Sistem Antrian&nbsp;yang dapat dijadwal&nbsp;dalam satu minggu, misal :&nbsp;Senin &ndash; Rabu sebagai&nbsp;antrian Poli Umum,Kamis &ndash; Jumat sebagai&nbsp;antrian Poli Anak&nbsp;&nbsp;</p>
+	</li>
+</ul>
+
+<p>Beberapa fitur lain bisa anda dapatkan, setelah kami mengetahui apa bidang anda bekerja, dengan beberapa usulan sebelum kami lakukan implementasi sistem antrian, pada instansi anda, sebab pada dasarnya kami ingin memberikan yang terbaik untuk anda.</p>
+	home/produk/	Sistem antrian adalah salah satu produk kami, yang terdiri dari dua type, disebut sistem antrian, karena basis system pengatur antrian dengan mempergunakan software atau perangkat lunak yang berjalan pada sebuah CPU komputer, dan mesin antri atau alat antrian.
+2	1	Sistem Informasi Manajemen Rumah Sakit (SIMRS)	<p>SIMRS merupakan sistem komputerisasi yang memproses dan mengintegrasikan seluruh alur proses bisnis layanan kesehatan dalam bentuk jaringan koordinasi, pelaporan dan prosedur administrasi untuk memperoleh informasi secara cepat, tepat dan akurat.</p>
+
+<p>Antar muka<strong>&nbsp;aplikasi SIMRS</strong>&nbsp;merupakan sarana pendukung yang sangat penting untuk membantu kegiatan operasional rumah sakit. Dengan aplikasi web, suatu perusahaan dapat menghemat biaya department IT terutama pada saat melakukan installasi software pada masing-masing komputer user. Dengan aplikasi web, semua user tersebut hanya memerlukan sebuah komputer dengan browser web dan koneksi ke jaringan intranet / internet. Selain itu dengan menerapkan aplikasi web proses pemeliharaan menjadi lebih mudah, dimana apabila terdapat upgrade aplikasi ke versi yang lebih baru, maka proses upgrade tersebut cukup dilakukan pada server web, dengan demikian semua pengguna akan mendapatkan versi yang terbaru tersebut. Aplikasi web juga dapat diinstalasi pada berbagai sistem operasi seperti windows, linux, macOS dan lain-lain. Jika aplikasi tersebut dibangun sesuai standard, maka akan berjalan dengan baik pada semua browser web modern, seperti internet explorer, Mozilla Firefox, Opera, google chrome atau Safari.<br />
+Berbagai pengalaman rumah sakit yang menggunakan sistim administrasi konvensional menunjukan banyaknya kehilangan kesempatan memperoleh laba akibat dari lemahnya koordinasi antar departemen maupun kurangnya dukungan informasi yang cepat, tepat, akurat, dan terintegrasi.</p>
+
+<p>Aplikasi<strong>&nbsp;Sistem Informasi Rumah Sakit</strong>&nbsp;(SIMRS) dirancang untuk penggunaan multi user yang saling terintegrasi (team work), dimana terdapat pembagian hak akses untuk setiap kelompok pengguna berdasarkan modul, menu dan fitur-fitur yang terdapat pada aplikasi SIMRS. Untuk itu diperlukan seorang Administrator aplikasi yang bertugas untuk mengelola pembagian hak akses pengguna, pemeliharaan database serta proses update aplikasi jika terdapat penambahan / perbaikan fitur yang terdapat pada aplikasi SIMRS. Selain tugas tersebut administrator juga berfungsi sebagai penghubung antara pihak rumah sakit dengan pengembang aplikasi dalam hal menyampaikan keluhan / kebutuhan dari pengguna apabila terdapat kelemahan ataupun permintaan tambahan fitur yang sangat dibutuhkan oleh pengguna.&nbsp;<br />
+Untuk SDM lainnya, karena aplikasi SIMRS dibangun berbasis web maka diperlukan pengetahuan dasar mengenai komputer, cara mengakses web melalui jaringan intranet / internet, penggunaan browser seperti Mozilla Firefox, Internet Explorer maupun browser lainnya.</p>
+
+<p><strong>Adapun modul yang terdapat SIMRS&nbsp;adalah :</strong><br />
+1. Modul Beranda (Home Page)<br />
+2. Modul Master<br />
+3. Modul Admisi<br />
+4. Modul Rekam Medis<br />
+5. Modul Rawat Jalan<br />
+6. Modul IGD<br />
+7. Modul Rawat Inap<br />
+8. Modul OK / VK<br />
+9. Modul RR (Recovery Room)<br />
+10. Modul Penunjang Medis (Laboratorium, Radiologi, Elektromedik<br />
+dan Fisioterapi)<br />
+11. Modul SDM<br />
+12. Modul Kasir<br />
+13. Modul Farmasi<br />
+14. Modul Keuangan<br />
+15. Modul Pengaturan</p>
+	home/produk/	SIMRS merupakan sistem komputerisasi yang memproses dan mengintegrasikan seluruh alur proses bisnis layanan kesehatan dalam bentuk jaringan koordinasi, pelaporan dan prosedur administrasi untuk memperoleh informasi secara cepat, tepat dan akurat.
+3	1	Sistem Manajemen Kepegawaian	<h2>SISTEM MANAJEMEN KEPEGAWAIAN</h2>
+
+<p>Arti dari system informasi manajemen kepegawaian adalah Sistem Informasi yang menangani pengelolaan data kepegawaian seperti pendataan pegawai, proses perencanaan dan formasi kepegawaian, penggajian, penilaian angka kredit, mutasi pegawai, dan sistem pelaporan. Dari aplikasi simpeg ini kita akan banyak mendapat manfaat seperti pencarian data pegawai dengan mudah dan cepat, untuk membuat laporan sangat mudah dibandingkan dengan secara manual, memudahkan pekerjaan yang berhubungan dengan kepegawaian, dapat melihat informasi pegawai secara cepat dan akurat, dapat denga cepat merencenakan kebutuhan pegawai dan masih banyak yang lain.</p>
+
+<p>Aplikasi system informasi manajemen kepegawaian yang dibuat agan gedelumbung ini dibuat menggunakan framework codeigniter dan untuk tampilan memanfaatkan framework css yaitu boostsrap. Untuk database sendiri menggunakan database yang sangat umum yaitu MySQL. Berikut lebih jelas fitur &ndash; fitur dalam aplikasi ini.</p>
+
+<ol>
+	<li>Data Master Status Pegawai</li>
+	<li>Data Master Unit Kerja</li>
+	<li>Data Master Satuan Kerja</li>
+	<li>Data Master PPK</li>
+	<li>Data Master Golongan</li>
+	<li>Data Master Eselon</li>
+	<li>Data Master Pelatihan</li>
+	<li>Data Master Jabatan</li>
+	<li>Data Master Status Jabatan</li>
+	<li>Data Master Pengahargaan</li>
+	<li>Data Master Hukuman</li>
+	<li>Data Master Lokasi Pelatihan</li>
+	<li>Data Master Lokasi Kerja</li>
+	<li>Laporan Pegawai Unit Kerja dan Satuan</li>
+	<li>Laporan Pegawai Penempatan Kerja</li>
+	<li>Laporan Pegawai Mengikuti Pelatihan</li>
+	<li>Laporan Pegawai Status Pegawai dan Golongan</li>
+	<li>Laporan Pegawai Strutural dan Fungsional</li>
+	<li>Laporan Daftar Urut Kepangkatan</li>
+	<li>Manajemen User</li>
+	<li>Pengaturan Akun</li>
+	<li>Login / Logout</li>
+	<li>Laporan Berbentuk&nbsp; Excel.</li>
+</ol>
+	home/produk/	Arti dari system informasi manajemen kepegawaian adalah Sistem Informasi yang menangani pengelolaan data kepegawaian seperti pendataan pegawai, proses perencanaan dan formasi kepegawaian, penggajian, penilaian angka kredit, mutasi pegawai, dan sistem pelaporan.
